@@ -8,3 +8,4 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 4: Numpy Basic: Arrays and Vectorized Computation](notebooks/Chapter4/Chapter4.ipynb)
 * [Chapter 5: Getting Started with Pandas](notebooks/Chapter5/Chapter5.ipynb)
 * [Chapter 6: Data Loading,Storage and File Formats](notebooks/Chapter6/Chapter6.ipynb)
+* [Chapter 7: Data Cleaning and Preparation](Chapter7/Chapter7.ipynb)
