@@ -12,3 +12,4 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 8: Data Wrangling: Join, Combine, and Reshape](notebooks/Chapter8/Chapter8.ipynb)
 * [Chapter 9: Plotting and Visualization](notebooks/Chapter9/Chapter9.ipynb)
 * [Chapter 10: Data Aggregation and Group Operations](notebooks/Chapter10/Chapter10.ipynb)
+* [Chapter 11: Time Series](notebooks/Chapter11/Chapter11.ipynb)
