@@ -13,3 +13,4 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 9: Plotting and Visualization](notebooks/Chapter9/Chapter9.ipynb)
 * [Chapter 10: Data Aggregation and Group Operations](notebooks/Chapter10/Chapter10.ipynb)
 * [Chapter 11: Time Series](notebooks/Chapter11/Chapter11.ipynb)
+* [Chapter 12: Advanced pandas](notebooks/Chapter12/Chapter12.ipynb)
