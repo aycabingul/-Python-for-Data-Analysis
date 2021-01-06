@@ -16,6 +16,6 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 12: Advanced pandas](notebooks/Chapter12/Chapter12.ipynb)
 * [Chapter 13: Introduction to Modeling Libraries in Python](notebooks/Chapter13/Chapter13.ipynb)
 * [Chapter 14: Data Analysis Examples](notebooks/Chapter14/Chapter14.ipynb)
-* [Appendix_A-Advanced_Numpy](notebooks/Appendix_A-Advanced_Numpy/Appendix_A.ipynb)
+* [Appendix_A:Advanced_Numpy](notebooks/Appendix_A-Advanced_Numpy/Appendix-A.ipynb)
 
 
